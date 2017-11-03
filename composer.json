@@ -1,5 +1,5 @@
 {
-    "name": "meinfernbus/google-bundle",
+    "name": "partycravings/google-bundle",
     "description": "Fork of AntiMattr GoogleBundle. Static Google maps with caching, Adwords with remarketing & lots of other fixes.",
     "keywords": ["google", "analytics", "adwords", "maps", "antimattr"],
     "type": "symfony-bundle",
